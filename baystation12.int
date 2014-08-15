@@ -1,6 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 501.1217
+WINDOW: code\__HELPERS\text.dm;code\game\gamemodes\gameticker.dm;code\game\turfs\unsimulated\walls.dm;icons\ss13_32.png;icons\misc\beach2.dmi;icons\misc\fullscreen_gray.dmi;icons\misc\fullscreen.dmi;icons\misc\fullscreen_original.dmi;code\modules\liquid\splash_simulation.dm
+DIR: code code\__HELPERS code\game code\game\gamemodes code\game\turfs code\game\turfs\unsimulated code\modules code\modules\liquid icons icons\misc 
+FILE: icons\misc\fullscreen_gray.dmi
+LAST_COMPILE_TIME: 1408137623
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS
